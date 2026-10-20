@@ -37,17 +37,15 @@ To personalize and use this course material:
 
 ---
 
-## 💻 Run Python Code with Trinket (No Installation Needed)
+## 💻 Run Python Code Online (No Installation Needed)
 
-We recommend using [Trinket.io](https://trinket.io/home) if you're not installing Python locally:
+If you're not installing Python locally, you can use [Coddy's free Python playground](https://coddy.tech/playground/python):
 
-1. Go to [https://trinket.io](https://trinket.io/home)
-2. 📝 Sign up for a free account (or log in if you already have one)
-3. Click **"New Trinket" > "Python 3"**
-4. Copy and paste code from the `.py` files into the editor
-5. Click **"Run"** to see your program in action!
+1. Go to [https://coddy.tech/playground/python](https://coddy.tech/playground/python) (no account needed)
+2. Copy and paste code from the `.py` files into the editor
+3. Click **"Run"** to see your program in action!
 
-Trinket is great for experimenting and sharing your code online.
+The **Share** button gives you a link to your code, so you can share it with others.
 
 ---
 
